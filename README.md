@@ -1,6 +1,6 @@
-# Queue-Propagation Market Impact: Public Reproduction Bundle
+# Queue-Propagation Market Impact: Reproduction Code
 
-This public branch is intentionally limited to the self-contained code and data needed to reproduce the active paper figures.  It excludes the manuscript source, LaTeX build products, local drafts, notebooks, submission packaging, and private development artifacts.
+This repository contains the simulator code, experiment scripts, compact source data, and figure builders needed to reproduce the paper figures for *Queue-Propagation Market Impact*.
 
 ## Contents
 
@@ -32,6 +32,6 @@ The reproduction command rebuilds:
 
 It prints the rebuilt figure paths and SHA-256 hashes.
 
-## Scope
+## Reproducibility Notes
 
-The checked-in CSV/JSON files are the compact source artifacts used by the plotting scripts.  Long-running simulator grids can be regenerated from the simulator and public experiment code, but the default workflow uses these compact source artifacts so the paper figures can be reproduced quickly on a clean machine.
+The checked-in CSV/JSON files are the compact source artifacts used by the plotting scripts.  Long-running simulator grids can be regenerated from the simulator and experiment code.  The default workflow uses the compact source artifacts so the paper figures can be reproduced quickly on a clean machine.
