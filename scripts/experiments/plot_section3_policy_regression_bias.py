@@ -472,7 +472,7 @@ def main() -> None:
         },
     )
     outputs: list[str] = []
-    for suffix in (".pdf", ".png"):
+    for suffix in (".pdf",):
         out = args.output_stem.with_suffix(suffix)
         out_metadata = dict(metadata)
         out_metadata["output_path"] = rel(out)

@@ -38,7 +38,6 @@ CLONED_CURVES = REPO_ROOT / "data" / "figure_source" / "main" / "fig_functional_
 OBSERVED_CURVES = REPO_ROOT / "artifacts" / "simulated_observed_valid_instrument" / "curves.csv"
 OBSERVED_SUMMARY = REPO_ROOT / "artifacts" / "simulated_observed_valid_instrument" / "summary.csv"
 OUTPUT_PDF = REPO_ROOT / "figures" / "main" / "fig_functional_civ_curve_validation.pdf"
-OUTPUT_PNG = OUTPUT_PDF.with_suffix(".png")
 
 LIQUIDITY_SETTINGS: tuple[tuple[float, str], ...] = (
     (1.5, "Low liquidity"),
@@ -241,7 +240,6 @@ def plot_loss_panel(ax: plt.Axes, loss: pd.DataFrame, *, title: str, panel_label
 
 def build_bundle(args: argparse.Namespace) -> dict[str, Any]:
     output_pdf = args.output_pdf
-    output_png = output_pdf.with_suffix(".png")
     if output_pdf.exists() and not args.force:
         raise FileExistsError(f"{output_pdf} exists; pass --force to overwrite.")
 
@@ -306,7 +304,6 @@ def build_bundle(args: argparse.Namespace) -> dict[str, Any]:
         fontsize=7.5,
     )
     fig.savefig(output_pdf, bbox_inches="tight")
-    fig.savefig(output_png, dpi=300, bbox_inches="tight")
     plt.close(fig)
 
     metadata = {
@@ -325,7 +322,6 @@ def build_bundle(args: argparse.Namespace) -> dict[str, Any]:
             rel(args.observed_summary),
         ],
         "output_pdf": rel(output_pdf),
-        "output_png": rel(output_png),
         "series": ["cloned oracle", "functional CIV", "scalar projection", "same-basis no-IV"],
         "loss_panels": {
             "top": "RMSE against cloned-grid oracle for cloned-grid estimator",
@@ -338,13 +334,8 @@ def build_bundle(args: argparse.Namespace) -> dict[str, Any]:
         "observed_panel_summary": summary.to_dict(orient="records") if not summary.empty else [],
         "output_hashes": {
             "pdf": file_hash(output_pdf),
-            "png": file_hash(output_png),
         },
     }
-    output_pdf.with_suffix(".pdf.metadata.json").write_text(
-        json.dumps(metadata, indent=2, sort_keys=True) + "\n",
-        encoding="utf-8",
-    )
     return metadata
 
 

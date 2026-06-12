@@ -174,44 +174,16 @@ def predicted_vs_observed_plot(ax, data) -> None:
 
 
 def write_figure_metadata(path: Path, metadata: dict[str, Any], *, write_legacy: bool = True) -> None:
-    payload = {
-        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        **metadata,
-    }
-    if "command" not in payload and payload.get("script_path"):
-        payload["command"] = f".venv/bin/python -m {str(payload['script_path']).replace('/', '.').removesuffix('.py')}"
-    if "input_paths" not in payload:
-        inputs: list[str] = []
-        for key in ("source_artifact_paths", "source_artifacts"):
-            value = payload.get(key)
-            if isinstance(value, list):
-                inputs.extend(str(v) for v in value)
-            elif isinstance(value, str):
-                inputs.append(value)
-        source_data = payload.get("source_data")
-        if source_data:
-            inputs.append(str(source_data))
-        payload["input_paths"] = sorted(set(inputs))
-    json_path = path.with_suffix(".json")
-    json_path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
-    if write_legacy:
-        legacy_json_path = path.with_suffix(path.suffix + ".metadata.json")
-        legacy_json_path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
+    return None
 
 
 def save_figure(fig, path: Path, metadata: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(path, bbox_inches="tight")
     metadata = dict(metadata)
-    write_png = bool(metadata.pop("write_png", True))
-    write_legacy_metadata = bool(metadata.pop("write_legacy_metadata", True))
+    metadata.pop("write_png", None)
+    metadata.pop("write_legacy_metadata", None)
     metadata["output_pdf"] = rel(path)
-    output_hashes = {"pdf": _hash(path)}
-    if write_png:
-        png = path.with_suffix(".png")
-        fig.savefig(png, bbox_inches="tight")
-        metadata["output_png"] = rel(png)
-        output_hashes["png"] = _hash(png)
-    metadata["output_hashes"] = output_hashes
-    write_figure_metadata(path, metadata, write_legacy=write_legacy_metadata)
+    metadata["output_hashes"] = {"pdf": _hash(path)}
+    write_figure_metadata(path, metadata)
     plt.close(fig)

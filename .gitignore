@@ -14,3 +14,7 @@ submission_package/
 *.out
 *.synctex.gz
 *.toc
+figures/main/*.png
+figures/main/*.json
+artifacts/reproduction/
+plots/figure_manifest.yaml

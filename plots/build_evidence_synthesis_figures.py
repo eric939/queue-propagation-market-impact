@@ -16,7 +16,6 @@ import numpy as np
 import pandas as pd
 from matplotlib.patches import Rectangle
 
-from plots.build_main_figures import MANIFEST, upsert_manifest
 from plots.style import COLORS, rel, save_figure, setup_style
 
 
@@ -95,8 +94,6 @@ def _entry(
         "source_data": rel(source_data),
         "plot_script": SCRIPT,
         "output_pdf": rel(output),
-        "output_png": rel(output.with_suffix(".png")),
-        "output_json": rel(output.with_suffix(".json")),
         "manuscript_label": MANUSCRIPT_LABELS[fig_id],
         "caption_text": caption,
         "evidence_type": evidence_type,
@@ -1811,7 +1808,6 @@ def main() -> None:
         figure_parent_schedule_bundle(),
         figure_civ_validity_frontier(),
     ]
-    upsert_manifest(entries)
     print(f"Built {len(entries)} public paper evidence figures")
 
 

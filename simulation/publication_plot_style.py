@@ -269,13 +269,7 @@ def metadata_from_context(
 
 def write_figure_metadata(path: str | Path, metadata: dict[str, Any] | None) -> Path:
     fig_path = Path(path)
-    meta_path = fig_path.with_suffix(fig_path.suffix + ".metadata.json")
-    payload = metadata or {}
-    payload.setdefault("output_path", str(fig_path))
-    payload.setdefault("created_at_utc", _dt.datetime.now(_dt.UTC).isoformat())
-    payload.setdefault("git_commit", _git_commit())
-    meta_path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-    return meta_path
+    return fig_path
 
 
 def save_figure(fig: Any, path: str | Path, metadata: dict[str, Any] | None = None) -> None:

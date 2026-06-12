@@ -14,8 +14,6 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 FIGURE_DIR = ROOT / "figures" / "main"
-MANIFEST_OUT = ROOT / "artifacts" / "reproduction" / "figure_rebuild_manifest.json"
-
 PAPER_FIGURES = (
     "fig_section3_policy_regression_bias",
     "fig_oracle_decomposition_atlas",
@@ -60,15 +58,19 @@ def build_evidence_figures() -> None:
     if str(ROOT) not in sys.path:
         sys.path.insert(0, str(ROOT))
     from plots import build_evidence_synthesis_figures as evidence
-    from plots.build_main_figures import upsert_manifest
 
     evidence.setup_style()
-    entries = [
-        evidence.figure_oracle_decomposition_atlas(),
-        evidence.figure_parent_schedule_bundle(),
-        evidence.figure_civ_validity_frontier(),
-    ]
-    upsert_manifest(entries)
+    evidence.figure_oracle_decomposition_atlas()
+    evidence.figure_parent_schedule_bundle()
+    evidence.figure_civ_validity_frontier()
+
+
+def remove_stale_figure_sidecars() -> None:
+    for figure_id in PAPER_FIGURES:
+        for suffix in (".png", ".json", ".pdf.metadata.json"):
+            path = FIGURE_DIR / f"{figure_id}{suffix}"
+            if path.exists():
+                path.unlink()
 
 
 def build_manifest() -> dict[str, Any]:
@@ -76,9 +78,7 @@ def build_manifest() -> dict[str, Any]:
     missing: list[str] = []
     for figure_id in PAPER_FIGURES:
         pdf = FIGURE_DIR / f"{figure_id}.pdf"
-        png = FIGURE_DIR / f"{figure_id}.png"
         source = ROOT / "data" / "figure_source" / "main" / f"{figure_id}.csv"
-        metadata = pdf.with_suffix(".pdf.metadata.json")
         if not pdf.exists():
             missing.append(rel(pdf))
             continue
@@ -87,14 +87,9 @@ def build_manifest() -> dict[str, Any]:
             "pdf": rel(pdf),
             "pdf_sha256": sha256(pdf),
         }
-        if png.exists():
-            row["png"] = rel(png)
-            row["png_sha256"] = sha256(png)
         if source.exists():
             row["source_csv"] = rel(source)
             row["source_csv_sha256"] = sha256(source)
-        if metadata.exists():
-            row["metadata_json"] = rel(metadata)
         figures.append(row)
     if missing:
         raise FileNotFoundError("Missing rebuilt figure outputs: " + ", ".join(missing))
@@ -104,13 +99,12 @@ def build_manifest() -> dict[str, Any]:
         "figures": figures,
         "entrypoint": "python3 scripts/reproduce_paper_figures.py",
     }
-    MANIFEST_OUT.parent.mkdir(parents=True, exist_ok=True)
-    MANIFEST_OUT.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     return payload
 
 
 def main() -> None:
     args = parse_args()
+    remove_stale_figure_sidecars()
     if not args.skip_policy_panel:
         run_script("scripts/experiments/run_section3_policy_assignment_experiment.py")
     run_script("scripts/experiments/plot_section3_policy_regression_bias.py")

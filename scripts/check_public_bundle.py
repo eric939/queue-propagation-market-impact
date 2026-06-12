@@ -86,6 +86,8 @@ def main() -> int:
         name = Path(path).name
         if parts.intersection(FORBIDDEN_DIRS):
             violations.append(path)
+        elif path.startswith("figures/main/") and not path.endswith(".pdf"):
+            violations.append(path)
         elif name in FORBIDDEN_NAMES or has_forbidden_suffix(path):
             violations.append(path)
 
