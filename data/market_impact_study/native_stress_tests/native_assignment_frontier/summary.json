@@ -1,0 +1,26 @@
+{
+  "artifacts": {
+    "figure": "figures/legacy/native_assignment_frontier.pdf",
+    "results_csv": "data/market_impact_study/native_stress_tests/native_assignment_frontier/results.csv",
+    "summary_json": "data/market_impact_study/native_stress_tests/native_assignment_frontier/summary.json",
+    "table": "latex/tables/native_assignment_frontier_table.tex"
+  },
+  "claim_scope": "native schedule panel plus synthetic negative controls for assignment diagnostics; relevance alone is not validity.",
+  "descendant_designs": [
+    "descendant_post_book_proxy"
+  ],
+  "direct_contamination_designs": [
+    "direct_outcome_contaminated"
+  ],
+  "effective_clusters": 1728,
+  "evidence_type": "native_event_engine_with_synthetic_negative_controls",
+  "n_rows": 5184,
+  "passing_designs": 2,
+  "registry_key": "NATIVE_ASSIGNMENT_FRONTIER",
+  "runtime_seconds": 0.495,
+  "sign_convention": "Q_t > 0 is economic buy pressure; Q_t = -X_sim,t.",
+  "verdict": "pass",
+  "weak_designs": [
+    "weak_amplitude_randomization"
+  ]
+}

@@ -1,0 +1,10 @@
+estimator,estimate,ci_low,ci_high,target,first_stage_f,validity,inference_unit,artifact_provenance
+OLS,1.1909964332746212,1.1761030542138606,1.2055514451596474,0.42,271.0202838206095,invalid_raw,episode cluster,data/market_impact_study/civ_identification/section6_civ_identification/section6_dynamic_alpha_results.csv
+Naive IV,1.0147860661972343,0.907201633303447,1.1051310252672166,0.42,271.0202838206095,invalid_raw,episode cluster,data/market_impact_study/civ_identification/section6_civ_identification/section6_dynamic_alpha_results.csv
+graph-valid lag CIV,0.4250638924827795,0.317763411255408,0.5151696887321427,0.42,178.86563992799026,valid,episode cluster,data/market_impact_study/civ_identification/section6_civ_identification/section6_dynamic_alpha_results.csv
+exact residual IV,0.3789476413603764,0.3750641337936209,0.3826686142697974,0.38,11975.319816041923,valid,seed/regime cluster,artifacts/revision/independent_replay_lob_validation.csv
+invalid instrument,0.5304904975408796,0.5173546999253111,0.544242627407013,0.38,605.2547639478515,invalid_exclusion,seed/regime cluster,artifacts/revision/independent_replay_lob_validation.csv
+descendant control,-0.297569207308614,-0.3520304241061956,-0.2512406972682807,0.38,1006.6035417276328,invalid_conditioning,seed/regime cluster,artifacts/revision/independent_replay_lob_validation.csv
+weak-IV residual IV,0.3578371302133349,0.3166386283590072,0.3936313286516684,0.38,152.57315686785455,weak_relevance,seed/regime cluster,artifacts/revision/independent_replay_lob_validation.csv
+"proxy mechanics, Z-correlated error",0.4153807348706322,0.4110974364796916,0.4192258913335926,0.38,11975.319816041923,diagnostic,seed/regime cluster,artifacts/revision/independent_replay_lob_validation.csv
+"raw terminal, no mechanics subtraction",0.3856236877544169,0.3813248741585501,0.3896810935691501,0.38,11975.319816041923,diagnostic,seed/regime cluster,artifacts/revision/independent_replay_lob_validation.csv

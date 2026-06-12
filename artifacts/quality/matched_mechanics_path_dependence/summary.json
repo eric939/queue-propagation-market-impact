@@ -1,0 +1,83 @@
+{
+  "allowed_manuscript_wording": "Residual propagation is schedule-path dependent inside the generated intervention environment even after sequential displayed mechanics are matched.",
+  "alpha_or_refill_regimes": [
+    0.5,
+    0.8,
+    1.1,
+    1.5,
+    2.0
+  ],
+  "base_state_count": 500000,
+  "base_states_per_cell": 1000,
+  "baseline_arm": "twap_5",
+  "clipping_rate_mean": 0.0,
+  "clone_integrity": {
+    "branch_injection_after_pre_state": true,
+    "branch_random_streams": "independent deterministic stream tags per arm",
+    "common_random_number_policy": "pre-state and terminal noise are common within seed-liquidity-alpha blocks; branch streams are tagged by arm",
+    "same_pre_state": true
+  },
+  "experiment_id": "matched_mechanics_schedule_path",
+  "generated_at": "2026-06-06T00:39:49+00:00",
+  "liquidity_regimes": [
+    0.75,
+    1.0,
+    1.35,
+    1.8,
+    2.4
+  ],
+  "matched_fseq_tolerance_ticks": 0.009435204742587022,
+  "n_result_rows": 9,
+  "quality_artifact_paths": {
+    "audit": "artifacts/quality/matched_mechanics_path_dependence/audit.json",
+    "results": "artifacts/quality/matched_mechanics_path_dependence/results.csv",
+    "summary": "artifacts/quality/matched_mechanics_path_dependence/summary.json"
+  },
+  "quality_experiment_id": "matched_mechanics_path_dependence",
+  "quality_revision_role": "keystone",
+  "scientific_question": "After total size and sequential displayed mechanics are matched, does execution path still change residual propagation?",
+  "seed_list": [
+    20260700,
+    20260701,
+    20260702,
+    20260703,
+    20260704,
+    20260705,
+    20260706,
+    20260707,
+    20260708,
+    20260709,
+    20260710,
+    20260711,
+    20260712,
+    20260713,
+    20260714,
+    20260715,
+    20260716,
+    20260717,
+    20260718,
+    20260719
+  ],
+  "source_experiment_id": "matched_mechanics_schedule_path",
+  "support_rate_mean": 1.0,
+  "tightest_ci_row": {
+    "abs_fseq_balance_ticks": 0.0,
+    "arm": "twap_5",
+    "ci_high": 0.0,
+    "ci_low": 0.0,
+    "ci_method": "1000 replication block bootstrap",
+    "ci_width": 0.0,
+    "clipping_rate": 0.0,
+    "clone_integrity_pass": true,
+    "clusters": 500,
+    "estimate": 0.0,
+    "first_stage_F": 191.0,
+    "fseq_balance_ticks": 0.0,
+    "inference_unit": "seed-liquidity-alpha block",
+    "new_information": "path-dependent residual propagation after matched sequential mechanics",
+    "sample_size": 500000,
+    "support_rate": 1.0,
+    "target": 0.0,
+    "target_gap": 0.0
+  }
+}

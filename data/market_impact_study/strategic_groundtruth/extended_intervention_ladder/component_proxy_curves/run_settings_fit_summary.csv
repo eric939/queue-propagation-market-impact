@@ -1,0 +1,529 @@
+setting_id,setting_label,source_run_name,proxy,proxy_label,outcome,outcome_label,horizon,beta,r2,rmse,n
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,total_impact,total impact,0.0,-0.011586380864576931,0.9338822026568738,0.6646923629123673,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,total_impact,total impact,10.0,-0.011260820016390083,0.5276692696077263,2.297046610153557,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,total_impact,total impact,30.0,-0.010929817148125385,0.5664420758399846,2.061510415960207,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,total_impact,total impact,75.0,-0.010656547710510141,0.5476167338379141,2.0879310699527287,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,total_impact,total impact,150.0,-0.010490582104077033,0.5364079042808605,2.102689897592847,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,mechanics,mechanics,0.0,-0.011586380864576931,0.9338822026568738,0.6646923629123673,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,propagation,propagation,0.0,0.0,,0.0,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,propagation,propagation,10.0,0.00032556084818684695,0.000994174825893035,2.2104456585013375,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,propagation,propagation,30.0,0.0006565637164515468,0.004877436034052662,1.9779321506369179,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,propagation,propagation,75.0,0.0009298331540667896,0.009443167018636345,2.0053004915583212,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_lots,x lots,propagation,propagation,150.0,0.0010957987604998975,0.013422320209992789,2.02346345019371,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,total_impact,total impact,0.0,-7.186606359491061,0.9865137015009439,0.30019806209481265,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,total_impact,total impact,10.0,-7.002326014407294,0.5602289938326135,2.216460536470309,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,total_impact,total impact,30.0,-6.814034983119418,0.6045072103326381,1.968934434657805,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,total_impact,total impact,75.0,-6.670692363778617,0.5891894535676274,1.9896820558782058,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,total_impact,total impact,150.0,-6.579512076724069,0.579352589627609,2.0029325603252617,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,mechanics,mechanics,0.0,-7.186606359491061,0.9865137015009439,0.30019806209481265,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,propagation,propagation,0.0,0.0,,0.0,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,propagation,propagation,10.0,0.18428034508376723,0.0008730240743927142,2.2105796862654374,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,propagation,propagation,30.0,0.37257137637164334,0.0042869127162245,1.9785189335466424,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,propagation,propagation,75.0,0.5159139957124446,0.007911442137717328,2.0068503179080666,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_full_depth,x/full depth,propagation,propagation,150.0,0.6070942827669916,0.011307593157339091,2.0256309340088583,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,total_impact,total impact,0.0,-2.099115019695761,0.9834769963437355,0.33228137573248145,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,total_impact,total impact,10.0,-2.0434413762887953,0.5574958011312754,2.22333755896567,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,total_impact,total impact,30.0,-1.9880326778334212,0.6012786743412489,1.9769546254554622,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,total_impact,total impact,75.0,-1.9455693255900166,0.5856552568244224,1.9982223291488965,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,total_impact,total impact,150.0,-1.9187205153819389,0.5757252649184745,2.011549862203557,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,mechanics,mechanics,0.0,-2.099115019695761,0.9834769963437355,0.33228137573248145,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,propagation,propagation,0.0,0.0,,0.0,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,propagation,propagation,10.0,0.055673643406966254,0.0009319945339146818,2.2105144488999087,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,propagation,propagation,30.0,0.11108234186233973,0.0044615052350863715,1.9783454650282248,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,propagation,propagation,75.0,0.1535456941057445,0.008204675530207983,2.006553711817362,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_top_depth,x/top depth,propagation,propagation,150.0,0.18039450431382206,0.011667384313987728,2.0252623307871844,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,total_impact,total impact,0.0,-0.5131626905527801,0.9602031499471912,0.5156866038806303,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,total_impact,total impact,10.0,-0.4988581863629324,0.5427909232854469,2.2599775676887495,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,total_impact,total impact,30.0,-0.48539748066847693,0.5855761518224115,2.0155071301647642,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,total_impact,total impact,75.0,-0.4751465265734946,0.5706387975766777,2.034109322900472,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,total_impact,total impact,150.0,-0.46875933150499594,0.5613745653789142,2.0452863626111113,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,mechanics,mechanics,0.0,-0.5131626905527801,0.9602031499471912,0.5156866038806303,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,propagation,propagation,0.0,0.0,,0.0,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,propagation,propagation,10.0,0.014304504189847803,0.0010061629943357575,2.2104323956785796,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,propagation,propagation,30.0,0.02776520988430322,0.004558131324748915,1.9782494544641092,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,propagation,propagation,75.0,0.038016163979285526,0.008217100892562557,2.0065411425732713,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,x_over_weighted_depth,x/weighted depth,propagation,propagation,150.0,0.04440335904778427,0.011548063958083277,2.0253845809917337,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,0.0,-4.946057674078113,0.9548521257062177,0.5492627588905822,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,10.0,-4.779332737891912,0.5333074087142013,2.2832957057341514,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,30.0,-4.599566778906399,0.5628393035048387,2.070058047720609,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,75.0,-4.468495250513998,0.5402384165288814,2.1048891573290556,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,150.0,-4.372851889122294,0.5229336209012436,2.133028323874736,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,mechanics,mechanics,0.0,-4.946057674078113,0.9548521257062177,0.5492627588905822,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,propagation,propagation,0.0,0.0,,0.0,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,propagation,propagation,10.0,0.16672493618620024,0.0014691456713525897,2.209920124996834,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,propagation,propagation,30.0,0.34649089517171294,0.007745151635037195,1.9750801204208324,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,propagation,propagation,75.0,0.47756242356411444,0.014195659892004997,2.000484193063414,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,signed_sqrt_full_depth,sqrt-full,propagation,propagation,150.0,0.5732057849558189,0.02062150261068163,2.016067197983086,6720
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,total_impact,total impact,0.0,-1.0,1.0,0.0,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,total_impact,total impact,10.0,-0.9699085286077753,0.563560054059645,2.2774874855319402,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,total_impact,total impact,30.0,-0.9392825925987786,0.6022184435333506,2.0367814104970314,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,total_impact,total impact,75.0,-0.9173027352340232,0.5838154860653808,2.0662257089682594,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,total_impact,total impact,150.0,-0.9030781821522222,0.5715947681360263,2.0861203731417417,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,mechanics,mechanics,0.0,-1.0,1.0,0.0,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,propagation,propagation,0.0,0.0,,0.0,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,propagation,propagation,10.0,0.030091471392224654,0.001230472022227369,2.2774874855319402,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,propagation,propagation,30.0,0.060717407401221474,0.0060620906929093055,2.0367814104970314,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,propagation,propagation,75.0,0.08269726476597687,0.010795405078481313,2.0662257089682594,6307
+extended_ladder_20260514_140026_medium,"medium
+L=2,3.5, |x|<=420",extended_ladder_20260514_140026_medium,neg_walk_proxy,-walk proxy,propagation,propagation,150.0,0.0969218178477778,0.015110434836794528,2.0861203731417417,6307
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,total_impact,total impact,0.0,-0.00974606482520307,0.9874283632060494,0.6999675146275133,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,total_impact,total impact,10.0,-0.00979863199150324,0.5387988723814354,5.7669900294146,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,total_impact,total impact,30.0,-0.00976538542087391,0.5586043304216544,5.523615822000872,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,total_impact,total impact,75.0,-0.010035453035946686,0.5351404414769743,5.952235880541436,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,total_impact,total impact,150.0,-0.010726932153061378,0.5118471272821326,6.667462528641467,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,mechanics,mechanics,0.0,-0.00974606482520307,0.9874283632060494,0.6999675146275133,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,propagation,propagation,0.0,0.0,,0.0,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,propagation,propagation,10.0,-5.2567166300169036e-05,-0.0013359291170089715,5.724202485508709,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,propagation,propagation,30.0,-1.932059567084025e-05,-0.0007738630259737089,5.471711020547663,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,propagation,propagation,75.0,-0.0002893882107436162,0.0005063287053436172,5.875626243672191,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_lots,x lots,propagation,propagation,150.0,-0.0009808673278583076,0.008872082634362344,6.549099303935007,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,total_impact,total impact,0.0,-12.88072405424478,0.9875202849845963,0.6974037949247975,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,total_impact,total impact,10.0,-12.950117605185609,0.5388423430192646,5.7667182384024755,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,total_impact,total impact,30.0,-12.906497591401008,0.5586770496171882,5.523160800042349,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,total_impact,total impact,75.0,-13.264499460305979,0.5352960735796986,5.951239411267213,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,total_impact,total impact,150.0,-14.178461990906465,0.5119952499338922,6.666450881250781,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,mechanics,mechanics,0.0,-12.88072405424478,0.9875202849845963,0.6974037949247975,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,propagation,propagation,0.0,0.0,,0.0,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,propagation,propagation,10.0,-0.06939355094082725,-0.00133600563861358,5.724202704229089,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,propagation,propagation,30.0,-0.02577353715622743,-0.0007737675539536415,5.47171075955198,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,propagation,propagation,75.0,-0.3837754060611979,0.0005131629148203976,5.875606155836544,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_full_depth,x/full depth,propagation,propagation,150.0,-1.297737936661683,0.008892263266078837,6.549032629577651,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,total_impact,total impact,0.0,-2.4065145620044195,0.98732019372638,0.7029724117659595,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,total_impact,total impact,10.0,-2.421401162249089,0.5395901903561415,5.762040472947729,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,total_impact,total impact,30.0,-2.4132078395948824,0.559434694655039,5.51841779619647,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,total_impact,total impact,75.0,-2.4805088857613202,0.5361789408589237,5.945583495589943,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,total_impact,total impact,150.0,-2.6511223725348763,0.5127230876015194,6.661477666766856,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,mechanics,mechanics,0.0,-2.4065145620044195,0.98732019372638,0.7029724117659595,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,propagation,propagation,0.0,0.0,,0.0,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,propagation,propagation,10.0,-0.014886600244669911,-0.0013251447805102679,5.72417166074241,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,propagation,propagation,30.0,-0.006693277590462733,-0.0007689685109597555,5.471697640199976,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,propagation,propagation,75.0,-0.07399432375690077,0.000577234708831531,5.875417825862224,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_top_depth,x/top depth,propagation,propagation,150.0,-0.24460781053045644,0.00905125606876589,6.548507312916035,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,total_impact,total impact,0.0,-0.6090218029419975,0.9841877802546949,0.7850157909405442,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,total_impact,total impact,10.0,-0.6130367359907796,0.5383114361951697,5.770036744951779,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,total_impact,total impact,30.0,-0.6112015572804586,0.5585469419732719,5.523974889228432,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,total_impact,total impact,75.0,-0.6287333307571988,0.5361575113468056,5.9457208432582185,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,total_impact,total impact,150.0,-0.6721173314197387,0.5129142792948241,6.6601706644044745,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,mechanics,mechanics,0.0,-0.6090218029419975,0.9841877802546949,0.7850157909405442,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,propagation,propagation,0.0,0.0,,0.0,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,propagation,propagation,10.0,-0.004014933048782004,-0.0013191992343244419,5.7241546665733924,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,propagation,propagation,30.0,-0.0021797543384610304,-0.0007624941862800494,5.471679941007914,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,propagation,propagation,75.0,-0.01971152781520137,0.0006873196954617633,5.875094232520574,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,x_over_weighted_depth,x/weighted depth,propagation,propagation,150.0,-0.06309552847774125,0.009378203692531839,6.547426936384896,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,0.0,-10.092132482712012,0.9024359113701008,1.949965682614443,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,10.0,-10.12101001703672,0.48988751334378455,6.065086477738548,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,30.0,-10.039229045591306,0.5031533343348913,5.860310413968703,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,75.0,-10.256394232633374,0.47639223028436795,6.317166039032029,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,150.0,-10.836919638114402,0.44524181353630277,7.107788866047763,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,mechanics,mechanics,0.0,-10.092132482712012,0.9024359113701008,1.949965682614443,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,propagation,propagation,0.0,0.0,,0.0,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,propagation,propagation,10.0,-0.028877534324709523,-0.0013613419832605445,5.724275122205837,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,propagation,propagation,30.0,0.05290343712070574,-0.0007466131058955217,5.471636525844862,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,propagation,propagation,75.0,-0.1642617499213625,-0.0002062232774640016,5.877720275545541,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,signed_sqrt_full_depth,sqrt-full,propagation,propagation,150.0,-0.7447871554023907,0.00429105737285107,6.564216929840323,2640
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,total_impact,total impact,0.0,-1.0,1.0,0.0,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,total_impact,total impact,10.0,-1.0053480093790623,0.5457366369085834,5.917322472893759,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,total_impact,total impact,30.0,-1.0029935245592934,0.5669849971168344,5.656418484040952,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,total_impact,total impact,75.0,-1.0346587940858452,0.5472528580777926,6.073822108206868,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,total_impact,total impact,150.0,-1.1131610598826402,0.5302320608286717,6.763327175548296,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,mechanics,mechanics,0.0,-1.0,1.0,0.0,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,propagation,propagation,0.0,0.0,,0.0,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,propagation,propagation,10.0,-0.005348009379062337,-0.001482302513544198,5.917322472893759,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,propagation,propagation,30.0,-0.0029935245592934115,-0.0008530302717457694,5.656418484040952,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,propagation,propagation,75.0,-0.03465879408584515,0.0008526726583555355,6.073822108206868,2469
+extended_ladder_beyond1100_max1300_20260514_164215,"near-boundary
+L=3.5, |x|<=1300",extended_ladder_beyond1100_max1300_20260514_164215,neg_walk_proxy,-walk proxy,propagation,propagation,150.0,-0.11316105988264023,0.011385579065745444,6.763327175548296,2469
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,total_impact,total impact,0.0,-0.0006322414122459742,0.9904647131548228,0.34208767139153673,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,total_impact,total impact,10.0,-0.0006303540026759675,0.5795830327590894,2.960296493137809,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,total_impact,total impact,30.0,-0.0006325665162867409,0.6068019169304171,2.8079504824133283,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,total_impact,total impact,75.0,-0.0006346382760407838,0.5979210714652553,2.869777138016251,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,total_impact,total impact,150.0,-0.000629812162608023,0.5740279062061766,2.9918655685685858,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,mechanics,mechanics,0.0,-0.0006322414122459742,0.9904647131548228,0.34208767139153673,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,propagation,propagation,0.0,0.0,,0.0,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,propagation,propagation,10.0,1.8874095700066834e-06,-0.00023671816838977122,2.9393950373684725,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,propagation,propagation,30.0,-3.2510404076670146e-07,-4.359253773067451e-05,2.783668995010366,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,propagation,propagation,75.0,-2.3968637948096754e-06,-0.00011017187222872593,2.846626378042663,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_lots,x lots,propagation,propagation,150.0,2.4292496379511857e-06,1.9433394460421916e-05,2.9696715864995302,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,total_impact,total impact,0.0,-11.884912614138104,0.9904646728011378,0.3420883952545813,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,total_impact,total impact,10.0,-11.849326176237179,0.5795725598813724,2.9603333644257463,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,total_impact,total impact,30.0,-11.890875569960388,0.6067867491866206,2.8080046406920927,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,total_impact,total impact,75.0,-11.929842354717632,0.5979083507414675,2.869822533771889,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,total_impact,total impact,150.0,-11.839153277963243,0.5740187527652593,2.9918977135353524,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,mechanics,mechanics,0.0,-11.884912614138104,0.9904646728011378,0.3420883952545813,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,propagation,propagation,0.0,0.0,,0.0,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,propagation,propagation,10.0,0.03558643790092188,-0.00023664255539990187,2.9393949262665466,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,propagation,propagation,30.0,-0.005962955822282328,-4.361243433104178e-05,2.783669022701934,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,propagation,propagation,75.0,-0.04492974057952828,-0.00011029292170960936,2.846626550315001,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_full_depth,x/full depth,propagation,propagation,150.0,0.04575933617485969,1.9517390166035042e-05,2.9696714617772737,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,total_impact,total impact,0.0,-2.2113916513036247,0.9904637261422019,0.34210537595132107,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,total_impact,total impact,10.0,-2.204715794701369,0.5795434058882349,2.9604360028767855,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,total_impact,total impact,30.0,-2.2124333928092494,0.6067489971941094,2.808139434249591,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,total_impact,total impact,75.0,-2.2197037508845354,0.5978820004723088,2.8699165662610886,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,total_impact,total impact,150.0,-2.2028552538802457,0.574006692537636,2.9919400660007445,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,mechanics,mechanics,0.0,-2.2113916513036247,0.9904637261422019,0.34210537595132107,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,propagation,propagation,0.0,0.0,,0.0,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,propagation,propagation,10.0,0.006675856602256026,-0.0002364344451319944,2.93939462047976,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,propagation,propagation,30.0,-0.0010417415056245814,-4.365920303595061e-05,2.7836690877933914,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,propagation,propagation,75.0,-0.00831209958091043,-0.00011053767553548255,2.8466268986379313,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_top_depth,x/top depth,propagation,propagation,150.0,0.008536397423379036,1.962352491091668e-05,2.969671304181532,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,total_impact,total impact,0.0,-0.5765430943749988,0.9904501302979127,0.3423491585264928,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,total_impact,total impact,10.0,-0.574679115028883,0.5792864320486067,2.961340541435182,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,total_impact,total impact,30.0,-0.5766640042108563,0.6064236892754423,2.8093006787806805,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,total_impact,total impact,75.0,-0.5785729258048417,0.597590195150349,2.870957684855846,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,total_impact,total impact,150.0,-0.5742001450865991,0.5737642034478376,2.9927914991027396,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,mechanics,mechanics,0.0,-0.5765430943749988,0.9904501302979127,0.3423491585264928,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,propagation,propagation,0.0,0.0,,0.0,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,propagation,propagation,10.0,0.0018639793461158165,-0.000234550336994932,2.9393918520643436,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,propagation,propagation,30.0,-0.0001209098358574129,-4.3938346574012854e-05,2.7836694762980216,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,propagation,propagation,75.0,-0.0020298314298428204,-0.00011313792074418849,2.8466305991904526,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,x_over_weighted_depth,x/weighted depth,propagation,propagation,150.0,0.002342949288399729,2.1846867557795413e-05,2.9696680028164835,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,0.0,-7.771213062492005,0.8974026024442666,1.122118478188953,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,10.0,-7.704292420645925,0.5192060131927336,3.1657353579692105,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,30.0,-7.710504020234693,0.5406735882028271,3.0349005069494464,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,75.0,-7.743599973518901,0.5338376185984006,3.0900188329296174,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,150.0,-7.725771949766994,0.5180017413052178,3.1825426768227576,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,mechanics,mechanics,0.0,-7.771213062492005,0.8974026024442666,1.122118478188953,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,propagation,propagation,0.0,0.0,,0.0,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,propagation,propagation,10.0,0.06692064184607859,-0.00015471000554700964,2.9392745362292696,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,propagation,propagation,30.0,0.06070904225731032,4.2737026240913245e-05,2.783548841189623,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,propagation,propagation,75.0,0.027613088973102145,-0.00011457182119456455,2.846632639851294,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,signed_sqrt_full_depth,sqrt-full,propagation,propagation,150.0,0.045441112725009655,4.178441645530384e-05,2.9696383980716425,1056
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,total_impact,total impact,0.0,-1.0,1.0,0.0,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,total_impact,total impact,10.0,-0.9972993827160493,0.5854853662639166,3.343838619568749,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,total_impact,total impact,30.0,-1.001273148148148,0.6135717003741641,3.166678726703471,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,total_impact,total impact,75.0,-1.0043788580246913,0.6046368184865495,3.236539148771154,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,total_impact,total impact,150.0,-0.9968171296296297,0.5809499321736418,3.373932058088105,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,mechanics,mechanics,0.0,-1.0,1.0,0.0,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,propagation,propagation,0.0,0.0,,0.0,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,propagation,propagation,10.0,0.002700617283950617,-0.0003122313750609784,3.343838619568749,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,propagation,propagation,30.0,-0.0012731481481481483,-5.43840451168176e-05,3.166678726703471,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,propagation,propagation,75.0,-0.004378858024691358,-0.00014657760216740812,3.236539148771154,816
+extended_ladder_huge_liq50_max16000_20260514_201244,"huge-liq
+L=50, |x|<=16000",extended_ladder_huge_liq50_max16000_20260514_201244,neg_walk_proxy,-walk proxy,propagation,propagation,150.0,0.00318287037037037,1.2946940877389679e-05,3.373932058088105,816
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,total_impact,total impact,0.0,-0.009797530700591925,0.6877565089884085,0.8848670342074642,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,total_impact,total impact,10.0,-0.009303052389787084,0.38826736813409535,1.5651978700105644,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,total_impact,total impact,30.0,-0.009081721000088347,0.4157629208284066,1.4429964459332743,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,total_impact,total impact,75.0,-0.008743484406749713,0.4073415694411293,1.413647599255539,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,total_impact,total impact,150.0,-0.008455738139411608,0.39752425219420207,1.3952567464749566,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,mechanics,mechanics,0.0,-0.009797530700591925,0.6877565089884085,0.8848670342074642,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,propagation,propagation,0.0,0.0,,0.0,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,propagation,propagation,10.0,0.0004944783108048414,0.002407654958712646,1.3340741423521927,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,propagation,propagation,30.0,0.0007158097005035781,0.006114391996640989,1.2148635241491479,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,propagation,propagation,75.0,0.0010540462938422122,0.013405477150460254,1.2116658067592037,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_lots,x lots,propagation,propagation,150.0,0.0013417925611803163,0.02152345549129464,1.2117537402583305,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,total_impact,total impact,0.0,-7.267790724107362,0.9704029126740769,0.2724305490861941,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,total_impact,total impact,10.0,-6.906033938502287,0.5486372946878034,1.3444704465191777,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,total_impact,total impact,30.0,-6.742346473761084,0.5875993007818233,1.2123566519732885,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,total_impact,total impact,75.0,-6.493631927348138,0.5761158360026063,1.195535627018903,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,total_impact,total impact,150.0,-6.312562067470762,0.5681044687163399,1.1813367149931684,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,mechanics,mechanics,0.0,-7.267790724107362,0.9704029126740769,0.2724305490861941,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,propagation,propagation,0.0,0.0,,0.0,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,propagation,propagation,10.0,0.3617567856050749,0.0033246687677870312,1.3334608428999497,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,propagation,propagation,30.0,0.5254442503462787,0.00848045949047227,1.2134165961247185,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,propagation,propagation,75.0,0.774158796759225,0.01854576525639562,1.2085052149583184,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_full_depth,x/full depth,propagation,propagation,150.0,0.9552286566366012,0.02798015920714647,1.2077491043303572,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,total_impact,total impact,0.0,-2.1213163744721335,0.9651483271188305,0.29562634455221526,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,total_impact,total impact,10.0,-2.00673058245081,0.540806447763639,1.3560831352323526,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,total_impact,total impact,30.0,-1.959968087839456,0.5796861172387475,1.2239327917519096,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,total_impact,total impact,75.0,-1.8856827522139907,0.5671626931188305,1.2080955086871799,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,total_impact,total impact,150.0,-1.8339802194715382,0.5598113547614554,1.1926246028919563,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,mechanics,mechanics,0.0,-2.1213163744721335,0.9651483271188305,0.29562634455221526,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,propagation,propagation,0.0,0.0,,0.0,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,propagation,propagation,10.0,0.11458579202132368,0.003903522102673196,1.33307356013198,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,propagation,propagation,30.0,0.16134828663267758,0.009343914182346036,1.2128881353072638,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,propagation,propagation,75.0,0.23563362225814294,0.02005904392445912,1.2075731742232512,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_top_depth,x/top depth,propagation,propagation,150.0,0.287336155000595,0.029558239976986922,1.206768311677941,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,total_impact,total impact,0.0,-0.4991580925133613,0.920097668464101,0.4476216098820065,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,total_impact,total impact,10.0,-0.4687148679048297,0.5079901937182352,1.4037032444101543,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,total_impact,total impact,30.0,-0.4586548483400308,0.5465637140190052,1.2712437738435953,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,total_impact,total impact,75.0,-0.4411554868983574,0.5344762505228565,1.2528810708229698,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,total_impact,total impact,150.0,-0.4297748231005792,0.5293067441436072,1.2332562761303214,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,mechanics,mechanics,0.0,-0.4991580925133613,0.920097668464101,0.4476216098820065,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,propagation,propagation,0.0,0.0,,0.0,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,propagation,propagation,10.0,0.03044322460853163,0.004755853656405407,1.3325031014234259,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,propagation,propagation,30.0,0.04050324417333056,0.010145267094759935,1.2123974765969685,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,propagation,propagation,75.0,0.05800260561500392,0.02092729311185415,1.2070380875088338,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,x_over_weighted_depth,x/weighted depth,propagation,propagation,150.0,0.06938326941278207,0.029674542469827148,1.206695996999191,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,0.0,-4.2272117518295795,0.9386645929697532,0.3921813567347077,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,10.0,-3.9894280336742605,0.5234847845986624,1.3814234072139906,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,30.0,-3.8602827617348314,0.5507466082652998,1.265366654394374,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,75.0,-3.6829985307202544,0.5298986518534328,1.2590259310826468,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,total_impact,total impact,150.0,-3.5147585503286636,0.5035698191279365,1.2665240321258453,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,mechanics,mechanics,0.0,-4.2272117518295795,0.9386645929697532,0.3921813567347077,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,propagation,propagation,0.0,0.0,,0.0,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,propagation,propagation,10.0,0.23778371815531985,0.004119971585313742,1.3329287153476361,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,propagation,propagation,30.0,0.36692899009474855,0.01185806097277764,1.2113480872322877,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,propagation,propagation,75.0,0.5442132211093261,0.026208172443633493,1.2037784516548555,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,signed_sqrt_full_depth,sqrt-full,propagation,propagation,150.0,0.7124532015009162,0.04452342774777429,1.1974273696651245,12600
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,total_impact,total impact,0.0,-1.0,1.0,0.0,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,total_impact,total impact,10.0,-0.9427780195434585,0.5582050101622478,1.5502116966380435,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,total_impact,total impact,30.0,-0.9145309965581359,0.5921469165084825,1.4028121886292129,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,total_impact,total impact,75.0,-0.8756181508881592,0.575391736404784,1.3902600245190861,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,total_impact,total impact,150.0,-0.8450765518059896,0.5579756962230422,1.3901713795789825,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,mechanics,mechanics,0.0,-1.0,1.0,0.0,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,propagation,propagation,0.0,0.0,,0.0,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,propagation,propagation,10.0,0.05722198045654152,0.004585342119219349,1.5502116966380435,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,propagation,propagation,30.0,0.08546900344186414,0.012422186400564916,1.4028121886292129,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,propagation,propagation,75.0,0.1243818491118408,0.02657386201782619,1.3902600245190861,9249
+overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,neg_walk_proxy,-walk proxy,propagation,propagation,150.0,0.15492344819401035,0.040674494918302884,1.3901713795789825,9249

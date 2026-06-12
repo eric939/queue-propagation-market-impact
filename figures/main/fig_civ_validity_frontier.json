@@ -1,0 +1,39 @@
+{
+  "clusters_or_cells": "see source data",
+  "command": ".venv/bin/python -m plots.build_evidence_synthesis_figures",
+  "evidence_type": "generated_and_native_civ_diagnostics",
+  "experiment_design_ids": [
+    "residual_civ_block",
+    "native_schedule_block"
+  ],
+  "figure_id": "fig_civ_validity_frontier",
+  "generated_at": "2026-06-12T16:24:21+00:00",
+  "inference_method": "generated_and_native_civ_diagnostics",
+  "input_paths": [
+    "artifacts/residual_civ_block/estimator_results.csv",
+    "data/figure_source/main/fig_civ_estimator_strength.csv",
+    "data/figure_source/main/fig_civ_validity_frontier.csv",
+    "data/market_impact_study/civ_identification/section6_civ_identification/generated_civ_monte_carlo_summary.csv",
+    "data/market_impact_study/native_stress_tests/native_assignment_frontier/results.csv"
+  ],
+  "manuscript_claim": "Residual-CIV validity-frontier diagnostics: graph-valid rows match declared scalar or projection targets, while weak denominators, post-treatment controls, descendants, and direct contamination define failure rows.",
+  "mc500_rows_used": 3,
+  "oracle_target": 0.42,
+  "output_hashes": {
+    "pdf": "8ec38256c593a54d2a81c37dcc528d09522123332e2f0a043f3cc4e2f460c850",
+    "png": "4b87211b39b26c15d66dc62c3b537f1cff30dddcd63ec0d5654f7649d71c9b42"
+  },
+  "output_pdf": "figures/main/fig_civ_validity_frontier.pdf",
+  "output_png": "figures/main/fig_civ_validity_frontier.png",
+  "primary_claim": "Residual-CIV validity-frontier diagnostics: graph-valid rows match declared scalar or projection targets, while weak denominators, post-treatment controls, descendants, and direct contamination define failure rows.",
+  "sample_size": 23,
+  "script_path": "plots/build_evidence_synthesis_figures.py",
+  "source_artifact_paths": [
+    "data/figure_source/main/fig_civ_estimator_strength.csv",
+    "artifacts/residual_civ_block/estimator_results.csv",
+    "data/market_impact_study/native_stress_tests/native_assignment_frontier/results.csv",
+    "data/market_impact_study/civ_identification/section6_civ_identification/generated_civ_monte_carlo_summary.csv"
+  ],
+  "source_data": "data/figure_source/main/fig_civ_validity_frontier.csv",
+  "title": "Residual-CIV validity frontier"
+}

@@ -1,0 +1,208 @@
+liquidity_scale,q_economic_intended,mean,std,count,ci_low,ci_high,outcome,support_rate,clipping_rate,panel,x,x_min,x_max,n,setting_id,setting_label,source_run_name,horizon,proxy,proxy_label,proxy_long_label,outcome_label,r2,beta,artifact_provenance
+1.5,-260.0,-4.483333333333333,3.88278105235989,60.0,-5.465812495046958,-3.5008541716197086,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-160.0,-2.591666666666667,2.032556348723071,60.0,-3.1059743834037308,-2.077358949929603,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-100.0,-1.55,1.3737860588873438,60.0,-1.8976158344517435,-1.2023841655482566,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-60.0,-0.8583333333333333,0.9526575970279884,60.0,-1.0993889645179218,-0.6172777021487448,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-30.0,-0.36666666666666664,0.72408133887757,60.0,-0.5498845244957966,-0.18344880883753667,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-10.0,-0.16666666666666666,0.492887262066433,60.0,-0.2913843516260163,-0.04194898170731705,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-0.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,10.0,0.225,0.4993640022865695,60.0,0.09864347364931075,0.35135652635068926,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,30.0,0.5083333333333333,0.6541372029062318,60.0,0.34281378379128485,0.6738528828753818,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,60.0,0.925,0.8916990067528772,60.0,0.6993690203384056,1.1506309796615946,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,100.0,1.55,1.3921693838108704,60.0,1.197732542544843,1.902267457455157,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,160.0,2.591666666666667,2.2558617930579277,60.0,2.020854876483882,3.1624784568494517,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,260.0,4.5,3.8729833462074166,60.0,3.52,5.4799999999999995,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-260.0,-1.8916666666666666,1.6725390894235386,60.0,-2.3148774478955945,-1.4684558854377388,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-160.0,-1.1083333333333334,0.9918808817674727,60.0,-1.3593138249184542,-0.8573528417482127,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-100.0,-0.7,0.6587095756740944,60.0,-0.8666765194827772,-0.5333234805172227,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-60.0,-0.475,0.5555955729466948,60.0,-0.6155850768816089,-0.334414923118391,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-30.0,-0.175,0.3776039535845882,60.0,-0.2705469831480856,-0.07945301685191435,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-10.0,-0.03333333333333333,0.18102033471939255,60.0,-0.07913779779061583,0.012471131123949174,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-0.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,10.0,0.016666666666666666,0.20515943916921295,60.0,-0.03524583395968153,0.06857916729301486,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,30.0,0.225,0.41604473357919464,60.0,0.11972615747060454,0.33027384252939546,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,60.0,0.5166666666666667,0.49545961085511364,60.0,0.3912980876580629,0.6420352456752705,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,100.0,0.75,0.6796060673505357,60.0,0.5780359385857641,0.9219640614142359,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,160.0,1.1583333333333334,0.9893143776642019,60.0,0.9080022568880088,1.408664409778658,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,260.0,2.058333333333333,1.6262978302784397,60.0,1.6468232050407452,2.469843461625921,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-260.0,-0.9333333333333333,0.954324087130172,60.0,-1.174810644694197,-0.6918560219724695,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-160.0,-0.5,0.5042194840896108,60.0,-0.6275851327612074,-0.3724148672387926,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-100.0,-0.44166666666666665,0.49652748969477895,60.0,-0.5673054563034408,-0.3160278770298925,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-60.0,-0.06666666666666667,0.2515488742932317,60.0,-0.13031731392513407,-0.003016019408199247,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-30.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-10.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-0.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,10.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,30.0,0.0,0.0,60.0,0.0,0.0,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,60.0,0.016666666666666666,0.12909944487358055,60.0,-0.01599999999999999,0.049333333333333326,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,100.0,0.475,0.49080528777558474,60.0,0.35080912722202195,0.599190872777978,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,160.0,0.5166666666666667,0.503939284299098,60.0,0.38915243423478074,0.6441808990985527,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,260.0,0.8916666666666667,0.8834239373637917,60.0,0.668129568459338,1.1152037648739954,terminal_total,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-260.0,-4.683333333333334,0.3184531823966139,60.0,-4.763913106301964,-4.602753560364703,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-160.0,-2.941666666666667,0.20772510082829249,60.0,-2.9942283692650196,-2.889104964068314,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-100.0,-1.95,0.19957582136766033,60.0,-2.0004996503875576,-1.8995003496124425,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-60.0,-1.4166666666666667,0.22860421475915466,60.0,-1.4745115140201555,-1.358821819313178,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-30.0,-0.8666666666666667,0.24123036789649893,60.0,-0.9277063715675584,-0.805626961765775,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-10.0,-0.4,0.22170372656516474,60.0,-0.45609878293089506,-0.343901217069105,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-0.0,0.0,0.0,60.0,0.0,0.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,10.0,0.425,0.22218102254616845,60.0,0.3687804445225765,0.48121955547742346,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,30.0,0.9083333333333333,0.2345508991536492,60.0,0.8489837672176762,0.9676828994489904,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,60.0,1.4166666666666667,0.22860421475915468,60.0,1.358821819313178,1.4745115140201555,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,100.0,1.9916666666666667,0.17201859050761342,60.0,1.9481399577634282,2.0351933755699054,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,160.0,2.9833333333333334,0.18334617315079016,60.0,2.936940350553347,3.0297263161133197,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,260.0,4.75,0.32547227745205987,60.0,4.6676441509320306,4.8323558490679694,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-260.0,-2.4916666666666667,0.06454972243679025,60.0,-2.508,-2.4753333333333334,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-160.0,-1.5,0.0,60.0,-1.5,-1.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-100.0,-1.025,0.10989208882554136,60.0,-1.052806535020216,-0.9971934649797838,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-60.0,-0.9916666666666667,0.06454972243679026,60.0,-1.008,-0.9753333333333334,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-30.0,-0.5,0.0,60.0,-0.5,-0.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-10.0,-0.125,0.2183334411523432,60.0,-0.1802459830582079,-0.06975401694179209,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-0.0,0.0,0.0,60.0,0.0,0.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,10.0,0.175,0.2404973659956538,60.0,0.11414577017054942,0.23585422982945056,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,30.0,0.5,0.0,60.0,0.5,0.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,60.0,0.9833333333333333,0.09051016735969632,60.0,0.960431101104692,1.0062355655619746,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,100.0,1.0333333333333334,0.12577443714661585,60.0,1.0015080097040998,1.065158656962567,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,160.0,1.5,0.0,60.0,1.5,1.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,260.0,2.5,0.0,60.0,2.5,2.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-260.0,-1.0,0.0,60.0,-1.0,-1.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-160.0,-1.0,0.0,60.0,-1.0,-1.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-100.0,-0.5,0.0,60.0,-0.5,-0.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-60.0,-0.5,0.0,60.0,-0.5,-0.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-30.0,-0.025,0.10989208882554138,60.0,-0.05280653502021617,0.002806535020216168,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-10.0,0.0,0.0,60.0,0.0,0.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-0.0,0.0,0.0,60.0,0.0,0.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,10.0,0.0,0.0,60.0,0.0,0.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,30.0,0.03333333333333333,0.12577443714661585,60.0,0.0015080097040996235,0.06515865696256704,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,60.0,0.5,0.0,60.0,0.5,0.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,100.0,0.5,0.0,60.0,0.5,0.5,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,160.0,0.9916666666666667,0.06454972243679027,60.0,0.9753333333333334,1.008,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,260.0,1.0,0.0,60.0,1.0,1.0,displayed_mechanics,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-260.0,0.2,3.8578557318097872,60.0,-0.7761721854228487,1.1761721854228486,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-160.0,0.35,2.01750811226395,60.0,-0.16049998754959394,0.8604999875495939,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-100.0,0.4,1.3710073001078993,60.0,0.05308728853134975,0.7469127114686502,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-60.0,0.5583333333333333,0.9570951224650178,60.0,0.31615485329050036,0.8005118133761664,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-30.0,0.5,0.7306834506711821,60.0,0.3151115773944747,0.6848884226055253,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-10.0,0.23333333333333334,0.5325559305923083,60.0,0.09857809032627712,0.36808857634038955,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,-0.0,0.0,0.0,60.0,0.0,0.0,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,10.0,-0.2,0.5538769367079199,60.0,-0.34015020191225265,-0.05984979808774735,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,30.0,-0.4,0.687663693917458,60.0,-0.5740029222431409,-0.22599707775685915,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,60.0,-0.49166666666666664,0.9274151551794358,60.0,-0.7263350788006477,-0.2569982545326856,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,100.0,-0.44166666666666665,1.426420394288773,60.0,-0.8026008255423742,-0.08073250779095903,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,160.0,-0.39166666666666666,2.2905325904737963,60.0,-0.9712513790208892,0.18791804568755593,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+1.5,260.0,-0.25,3.878996025970061,60.0,-1.2315214178943374,0.7315214178943374,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-260.0,0.6,1.6844251647352046,60.0,0.17378162675112735,1.0262183732488726,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-160.0,0.39166666666666666,0.9918808817674727,60.0,0.14068617508154596,0.6426471582517874,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-100.0,0.325,0.6753843852182327,60.0,0.1541041715524017,0.49589582844759833,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-60.0,0.5166666666666667,0.5520889963466086,60.0,0.37696887608631424,0.6563644572470192,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-30.0,0.325,0.3776039535845882,60.0,0.22945301685191438,0.42054698314808564,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-10.0,0.09166666666666666,0.29818187298783116,60.0,0.016216242689443383,0.16711709064388994,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,-0.0,0.0,0.0,60.0,0.0,0.0,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,10.0,-0.15833333333333333,0.29818187298783116,60.0,-0.23378375731055662,-0.08288290935611005,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,30.0,-0.275,0.41604473357919464,60.0,-0.3802738425293955,-0.16972615747060454,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,60.0,-0.4666666666666667,0.5030977485864634,60.0,-0.5939679611836015,-0.33936537214973184,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,100.0,-0.2833333333333333,0.6533269917828977,60.0,-0.44864787117512617,-0.11801879549154046,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,160.0,-0.3416666666666667,0.9893143776642019,60.0,-0.5919977431119912,-0.09133559022134213,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+3.5,260.0,-0.44166666666666665,1.6262978302784399,60.0,-0.8531767949592547,-0.030156538374078612,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-260.0,0.06666666666666667,0.954324087130172,60.0,-0.1748106446941971,0.30814397802753046,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-160.0,0.5,0.5042194840896108,60.0,0.3724148672387926,0.6275851327612074,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-100.0,0.058333333333333334,0.49652748969477895,60.0,-0.06730545630344083,0.1839721229701075,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-60.0,0.43333333333333335,0.2515488742932317,60.0,0.36968268607486593,0.49698398059180077,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-30.0,0.025,0.10989208882554138,60.0,-0.002806535020216168,0.05280653502021617,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-10.0,0.0,0.0,60.0,0.0,0.0,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,-0.0,0.0,0.0,60.0,0.0,0.0,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,10.0,0.0,0.0,60.0,0.0,0.0,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,30.0,-0.03333333333333333,0.12577443714661585,60.0,-0.06515865696256704,-0.0015080097040996235,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,60.0,-0.48333333333333334,0.12909944487358055,60.0,-0.516,-0.45066666666666666,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,100.0,-0.025,0.49080528777558474,60.0,-0.14919087277797805,0.09919087277797806,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,160.0,-0.475,0.5160557715228403,60.0,-0.6055801267097157,-0.34441987329028423,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+10.0,260.0,-0.10833333333333334,0.8834239373637918,60.0,-0.33187043154066204,0.11520376487399536,propagation_residual,1.0,0.0,decomposition,,,,,,,,,,,,,,,plots/build_evidence_synthesis_figures.py
+,,2.4604761904761903,,,2.3644175203238875,2.556534860628493,mechanics,,,normalizer_curve,-260.0,-260.0,-260.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,1.5842857142857143,,,1.520302064086227,1.6482693644852016,mechanics,,,normalizer_curve,-160.0,-160.0,-160.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,1.020952380952381,,,0.9768947137610352,1.065010048143727,mechanics,,,normalizer_curve,-100.0,-100.0,-100.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.7971428571428572,,,0.766072231647567,0.8282134826381473,mechanics,,,normalizer_curve,-60.0,-60.0,-60.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.4380952380952381,,,0.4135685869833275,0.4626218892071487,mechanics,,,normalizer_curve,-30.0,-30.0,-30.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.2095238095238095,,,0.1943626619371498,0.2246849571104691,mechanics,,,normalizer_curve,-10.0,-10.0,-10.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0,,,0.0,0.0,mechanics,,,normalizer_curve,0.0,0.0,0.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.1914285714285714,,,-0.2065457273003737,-0.1763114155567691,mechanics,,,normalizer_curve,10.0,10.0,10.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.4338095238095238,,,-0.4579905734286394,-0.4096284741904082,mechanics,,,normalizer_curve,30.0,30.0,30.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.7957142857142857,,,-0.8265957102802302,-0.7648328611483413,mechanics,,,normalizer_curve,60.0,60.0,60.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-1.0171428571428571,,,-1.0609883448670443,-0.97329736941867,mechanics,,,normalizer_curve,100.0,100.0,100.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-1.5771428571428572,,,-1.6405779826723097,-1.5137077316134049,mechanics,,,normalizer_curve,160.0,160.0,160.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-2.4509523809523808,,,-2.545917641683259,-2.3559871202215024,mechanics,,,normalizer_curve,260.0,260.0,260.0,1050.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_lots,x lots,treatment size $x$ (lots),mechanics,,,plots/build_evidence_synthesis_figures.py
+,,4.182266009852217,,,4.118872424671975,4.24565959503246,mechanics,,,normalizer_curve,-0.6153976659228322,-0.7624633431085044,-0.5118110236220472,406.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,2.765432098765432,,,2.7356742881818836,2.7951899093489803,mechanics,,,normalizer_curve,-0.3853936026463855,-0.5108055009823183,-0.3180914512922465,405.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,2.2775061124694376,,,2.2524581766401175,2.3025540482987576,mechanics,,,normalizer_curve,-0.2921743455206668,-0.3174603174603174,-0.2604166666666667,409.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,1.584975369458128,,,1.5657512644578413,1.604199474458415,mechanics,,,normalizer_curve,-0.2024753821398059,-0.2597402597402597,-0.1875732708089097,406.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,1.3242574257425743,,,1.2994783264822514,1.3490365250028973,mechanics,,,normalizer_curve,-0.1510543879326562,-0.1873536299765808,-0.1207243460764587,404.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,1.0153061224489797,,,1.0054089529448045,1.0252032919531548,mechanics,,,normalizer_curve,-0.1151700449266418,-0.1204819277108433,-0.1078390709249274,392.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.9595588235294118,,,0.9442860591649428,0.9748315878938808,mechanics,,,normalizer_curve,-0.0846953172042744,-0.1077943615257048,-0.070754716981132,408.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.9547619047619048,,,0.941028024598853,0.9684957849249566,mechanics,,,normalizer_curve,-0.0662458207133466,-0.0706713780918728,-0.0608519269776876,420.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.5476190476190477,,,0.5331993204528832,0.5620387747852121,mechanics,,,normalizer_curve,-0.0453819016325791,-0.0607287449392712,-0.0354609929078014,399.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.4680589680589681,,,0.4552250688801593,0.4808928672377768,mechanics,,,normalizer_curve,-0.0291997235086951,-0.0354191263282172,-0.024906600249066,407.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.4951338199513382,,,0.4883978681186819,0.5018697717839944,mechanics,,,normalizer_curve,-0.0226040244504715,-0.0248962655601659,-0.0204498977505112,411.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.1670792079207921,,,0.1440523218748058,0.1901060939667783,mechanics,,,normalizer_curve,-0.0157680485657583,-0.0204081632653061,-0.0124636476942251,404.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0928217821782178,,,0.0738407087966167,0.1118028555598188,mechanics,,,normalizer_curve,-0.0118348470054337,-0.0124584717607973,-0.0083035788424811,404.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0,,,0.0,0.0,mechanics,,,normalizer_curve,-0.0064480180002452,-0.0083028894055131,-0.0041597337770382,410.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0,,,0.0,0.0,mechanics,,,normalizer_curve,-0.0032574208448461,-0.0041580041580041,-0.0008307027745472,410.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0,,,0.0,0.0,mechanics,,,normalizer_curve,-8.178156837095992e-06,-0.0008306337735692,0.0008304958059961,406.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0,,,0.0,0.0,mechanics,,,normalizer_curve,0.0032210979785774,0.0008305647840531,0.0041580041580041,408.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,0.0,,,0.0,0.0,mechanics,,,normalizer_curve,0.0063686865052718,0.0041597337770382,0.008302200083022,406.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.0664160401002506,,,-0.0830880372804571,-0.049744042920044,mechanics,,,normalizer_curve,0.0117333288115425,0.0083028894055131,0.0124584717607973,399.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.1532846715328467,,,-0.1755998327112827,-0.1309695103544106,mechanics,,,normalizer_curve,0.0155547430736775,0.0124636476942251,0.0204498977505112,411.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.4926289926289926,,,-0.4994100369903629,-0.4858479482676223,mechanics,,,normalizer_curve,0.022511544092135,0.0204918032786885,0.0248962655601659,407.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.456575682382134,,,-0.4727189274146287,-0.4404324373496392,mechanics,,,normalizer_curve,0.0287460727784203,0.024906600249066,0.035377358490566,403.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.5389294403892944,,,-0.5518978559792048,-0.5259610247993839,mechanics,,,normalizer_curve,0.0448400869107573,0.0354191263282172,0.0607287449392712,411.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.96356783919598,,,-0.9768185756379464,-0.9503171027540136,mechanics,,,normalizer_curve,0.0660005815397072,0.0608519269776876,0.0705882352941176,398.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-0.941031941031941,,,-0.9584732405337396,-0.9235906415301424,mechanics,,,normalizer_curve,0.0820259435461334,0.0706713780918728,0.1077496891835888,407.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-1.0120481927710845,,,-1.020155706997696,-1.0039406785444724,mechanics,,,normalizer_curve,0.1146750411696028,0.1077943615257048,0.1202404809619238,415.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-1.309823677581864,,,-1.3352185950877762,-1.2844287600759516,mechanics,,,normalizer_curve,0.1493378812583023,0.1204819277108433,0.1873536299765808,397.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-1.5903614457831323,,,-1.609193740322596,-1.571529151243669,mechanics,,,normalizer_curve,0.2019830582871297,0.1875732708089097,0.2590673575129533,415.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-2.2542997542997543,,,-2.282999713248308,-2.2255997953512003,mechanics,,,normalizer_curve,0.291001179501517,0.2597402597402597,0.3162055335968379,407.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-2.7450980392156863,,,-2.774152771874106,-2.7160433065572667,mechanics,,,normalizer_curve,0.3831353155221414,0.3168316831683168,0.5098039215686274,408.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,-4.152334152334152,,,-4.211985465911357,-4.092682838756947,mechanics,,,normalizer_curve,0.613097793547305,0.5118110236220472,0.7602339181286549,407.0,overnight_20260515,"liquidity sweep
+L=1.5,2,3.5,10,50, |x|<=260",overnight_20260515,0.0,x_over_full_depth,x/full depth,"$x / D_{\rm opp,full}$",mechanics,,,plots/build_evidence_synthesis_figures.py
+,,,,,,,,,,normalizer_fit,,,,,,,,,x_lots,,,,0.6877565089884085,-0.0097975307005919,plots/build_evidence_synthesis_figures.py
+,,,,,,,,,,normalizer_fit,,,,,,,,,x_over_full_depth,,,,0.9704029126740767,-7.267790724107362,plots/build_evidence_synthesis_figures.py

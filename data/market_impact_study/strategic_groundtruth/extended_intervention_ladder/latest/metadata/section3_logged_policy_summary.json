@@ -1,0 +1,83 @@
+{
+  "command": "python scripts/experiments/run_section3_policy_assignment_experiment.py",
+  "horizon": 150,
+  "input_paths": [
+    "data/market_impact_study/strategic_groundtruth/extended_intervention_ladder/latest/data/one_shot_branch_rows.csv"
+  ],
+  "ladder": [
+    -100.0,
+    -60.0,
+    -30.0,
+    -10.0,
+    0.0,
+    10.0,
+    30.0,
+    60.0,
+    100.0
+  ],
+  "liquidity_scale": 1.5,
+  "n_clones": 60,
+  "n_policy_rows": 180,
+  "oracle_fit": {
+    "intercept": 0.029629629629629724,
+    "r2": 0.9981296085752647,
+    "slope": 0.015313926940639273
+  },
+  "output_csv": "data/market_impact_study/strategic_groundtruth/extended_intervention_ladder/latest/data/section3_logged_policy_panel.csv",
+  "policy_assignment_counts": {
+    "randomized": {
+      "-10.0": 7,
+      "-100.0": 6,
+      "-30.0": 7,
+      "-60.0": 7,
+      "0.0": 6,
+      "10.0": 7,
+      "100.0": 7,
+      "30.0": 7,
+      "60.0": 6
+    },
+    "rl_style": {
+      "-10.0": 8,
+      "-100.0": 6,
+      "-30.0": 6,
+      "-60.0": 10,
+      "10.0": 7,
+      "100.0": 9,
+      "30.0": 9,
+      "60.0": 5
+    },
+    "signal_confounded": {
+      "-10.0": 7,
+      "-100.0": 6,
+      "-30.0": 10,
+      "-60.0": 7,
+      "10.0": 8,
+      "100.0": 9,
+      "30.0": 5,
+      "60.0": 8
+    }
+  },
+  "policy_definitions": {
+    "randomized": "complete randomized one-branch-per-clone assignment over the plotted ladder",
+    "rl_style": "latent-direction-aligned nonlinear state policy score, used as an RL-style logged policy negative control",
+    "signal_confounded": "latent-direction-aligned sign and magnitude increasing in absolute state/signal score"
+  },
+  "policy_fits": {
+    "randomized": {
+      "intercept": 0.07349035504612807,
+      "r2": 0.43736985027283803,
+      "slope": 0.014764467430807938
+    },
+    "rl_style": {
+      "intercept": 0.0366007796796004,
+      "r2": 0.9013914909692757,
+      "slope": 0.028799415240299695
+    },
+    "signal_confounded": {
+      "intercept": 0.05115493904488374,
+      "r2": 0.8850987976626907,
+      "slope": 0.026957743896849892
+    }
+  },
+  "policy_seed": 20260521
+}

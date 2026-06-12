@@ -1,0 +1,38 @@
+{
+  "clusters_or_cells": "see source data",
+  "command": ".venv/bin/python -m plots.build_evidence_synthesis_figures",
+  "evidence_type": "stored_and_generated_parent_schedule_diagnostics",
+  "experiment_design_ids": [
+    "metaorder_block",
+    "native_factorial_metaorder_refill"
+  ],
+  "figure_id": "fig_parent_schedule_bundle",
+  "generated_at": "2026-06-12T16:24:21+00:00",
+  "inference_method": "stored_and_generated_parent_schedule_diagnostics",
+  "input_paths": [
+    "artifacts/quality/matched_mechanics_path_dependence/results.csv",
+    "data/figure_source/main/fig_metaorder_slice_decomposition.csv",
+    "data/figure_source/main/fig_parent_schedule_bundle.csv",
+    "data/market_impact_study/native_stress_tests/native_metaorder_shape/results.csv"
+  ],
+  "manuscript_claim": "Parent-schedule diagnostics: fixed-size cloned parent paths vary with slicing, residual propagation remains path dependent after sequential displayed mechanics are matched (max |F_seq| imbalance 0.009 ticks), and native slicing shows that child-walk mechanics do not survive one-for-one to the terminal horizon.",
+  "max_abs_fseq_balance_ticks": 0.0091692785835818,
+  "max_clipping_rate": 0.0,
+  "min_support_rate": 1.0,
+  "output_hashes": {
+    "pdf": "fd5c2e45ee945e1a7d05a7429f82c331657c889dcbbf2567d691c308a7ece06e",
+    "png": "d2b35fbd36803208cbb47a967d140bc8cf598f5250bb4fbb7e0ee5b9cb95d248"
+  },
+  "output_pdf": "figures/main/fig_parent_schedule_bundle.pdf",
+  "output_png": "figures/main/fig_parent_schedule_bundle.png",
+  "primary_claim": "Parent-schedule diagnostics: fixed-size cloned parent paths vary with slicing, residual propagation remains path dependent after sequential displayed mechanics are matched (max |F_seq| imbalance 0.009 ticks), and native slicing shows that child-walk mechanics do not survive one-for-one to the terminal horizon.",
+  "sample_size": 115,
+  "script_path": "plots/build_evidence_synthesis_figures.py",
+  "source_artifact_paths": [
+    "data/figure_source/main/fig_metaorder_slice_decomposition.csv",
+    "artifacts/quality/matched_mechanics_path_dependence/results.csv",
+    "data/market_impact_study/native_stress_tests/native_metaorder_shape/results.csv"
+  ],
+  "source_data": "data/figure_source/main/fig_parent_schedule_bundle.csv",
+  "title": "Parent schedule diagnostics"
+}

@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-05-24T18:23:03+00:00",
+  "estimators": [
+    "Naive IV",
+    "OLS",
+    "descendant control",
+    "exact residual IV",
+    "graph-valid lag CIV",
+    "invalid instrument",
+    "proxy mechanics, Z-correlated error",
+    "raw terminal, no mechanics subtraction",
+    "weak-IV residual IV"
+  ],
+  "experiment_id": "residual_civ_block",
+  "sample_size": 100000,
+  "source_artifacts": [
+    "artifacts/revision/independent_replay_lob_validation.csv",
+    "data/market_impact_study/civ_identification/section6_civ_identification/section6_dynamic_alpha_results.csv",
+    "artifacts/revision/block_timeseries_civ_inference.csv"
+  ]
+}

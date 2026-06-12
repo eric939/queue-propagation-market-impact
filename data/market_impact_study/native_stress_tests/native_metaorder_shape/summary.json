@@ -1,0 +1,38 @@
+{
+  "artifacts": {
+    "figure": "figures/legacy/native_metaorder_shape_layers.pdf",
+    "heatmap": "figures/legacy/native_metaorder_shape_heatmap.pdf",
+    "results_csv": "data/market_impact_study/native_stress_tests/native_metaorder_shape/results.csv",
+    "summary_json": "data/market_impact_study/native_stress_tests/native_metaorder_shape/summary.json",
+    "table": "latex/tables/native_metaorder_shape_table.tex"
+  },
+  "claim_scope": "native schedule panel layer decomposition; no real-market square-root validation.",
+  "effective_clusters": 1728,
+  "evidence_type": "native_event_engine_reused_schedule_panel",
+  "exponents": [
+    {
+      "a": 0.4557706178468758,
+      "delta": 0.4999999999999957,
+      "layer": "collapsed_one_shot_mechanics",
+      "rmse": 0.29797297165104747
+    },
+    {
+      "a": 0.08991824843800315,
+      "delta": 0.7219467777891759,
+      "layer": "sequential_mechanics",
+      "rmse": 0.9549444274418105
+    },
+    {
+      "a": 0.573083733724364,
+      "delta": 0.2126506646175218,
+      "layer": "terminal_response",
+      "rmse": 0.8246594891213934
+    }
+  ],
+  "n_rows": 5184,
+  "registry_key": "NATIVE_METAORDER_SHAPE",
+  "runtime_seconds": 0.554,
+  "sign_convention": "Q_t > 0 is economic buy pressure; Q_t = -X_sim,t.",
+  "support_clipping_rate": 0.0,
+  "verdict": "pass"
+}

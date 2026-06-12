@@ -1,0 +1,7 @@
+# Portable default dependencies for the paper repository.
+#
+# The full local development environment is intentionally not recorded here:
+# it may contain operating-system packages and machine-local build paths.  The
+# paper-facing reproducibility environment is maintained in
+# requirements-paper.txt.
+-r requirements-paper.txt

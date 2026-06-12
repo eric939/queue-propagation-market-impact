@@ -1,0 +1,37 @@
+{
+  "clusters_or_cells": "see source data",
+  "command": ".venv/bin/python -m plots.build_evidence_synthesis_figures",
+  "evidence_type": "cloned_simulator_oracle",
+  "experiment_design_ids": [
+    "mechanics_block"
+  ],
+  "figure_id": "fig_oracle_decomposition_atlas",
+  "generated_at": "2026-06-12T16:24:20+00:00",
+  "inference_method": "cloned_simulator_oracle",
+  "input_paths": [
+    "data/figure_source/main/fig_oracle_decomposition_atlas.csv",
+    "data/market_impact_study/strategic_groundtruth/extended_intervention_ladder/component_proxy_curves/run_settings_fit_summary.csv",
+    "data/market_impact_study/strategic_groundtruth/extended_intervention_ladder/latest/data/one_shot_branch_rows.csv"
+  ],
+  "manuscript_claim": "Cloned oracle atlas decomposes terminal response into displayed mechanics and residual propagation across liquidity settings; normalizer diagnostics are retained in metadata and caption rather than plotted as an explanatory text panel.",
+  "max_abs_walk_error": 0.0,
+  "max_clipping_rate": 0.0,
+  "min_support_rate": 1.0,
+  "normalizer_r2_depth": 0.9704029126740767,
+  "normalizer_r2_raw": 0.6877565089884085,
+  "output_hashes": {
+    "pdf": "fe4dda2e4620184dd07d4c8935808cc39ccfeb172c81c4cb4d8fc5369d2c9e8e",
+    "png": "ea9a3a38a3c62c24b8f70154de01507bc7ed3d88446da939a985caf437ef2b32"
+  },
+  "output_pdf": "figures/main/fig_oracle_decomposition_atlas.pdf",
+  "output_png": "figures/main/fig_oracle_decomposition_atlas.png",
+  "primary_claim": "Cloned oracle atlas decomposes terminal response into displayed mechanics and residual propagation across liquidity settings; normalizer diagnostics are retained in metadata and caption rather than plotted as an explanatory text panel.",
+  "sample_size": 2340,
+  "script_path": "plots/build_evidence_synthesis_figures.py",
+  "source_artifact_paths": [
+    "data/market_impact_study/strategic_groundtruth/extended_intervention_ladder/latest/data/one_shot_branch_rows.csv",
+    "data/market_impact_study/strategic_groundtruth/extended_intervention_ladder/component_proxy_curves/run_settings_fit_summary.csv"
+  ],
+  "source_data": "data/figure_source/main/fig_oracle_decomposition_atlas.csv",
+  "title": "Oracle mechanics-propagation decomposition atlas"
+}
